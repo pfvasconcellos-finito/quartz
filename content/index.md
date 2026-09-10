@@ -10,6 +10,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 Bem-vindo ao meu segundo cérebro! 
 
-## Tópicos Principais
-- [[Tecnologia]]
-- [[Projetos Pessoais]]
+
