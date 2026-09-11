@@ -8,7 +8,6 @@ configuration:
     provider: plausible
   locale: pt-BR
   baseUrl: pfvasconcellos-finito.github.io/quartz
-  useGoogleFontes: true
   ignorePatterns:
     - private
     - templates
@@ -113,7 +112,12 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: false
+    enabled: true
+    options:
+      fontOrigin: googleFonts  # Opções: googleFonts | selfHosted | local
+      body: "Nunito Sans"
+      header: "Archivo"
+      code: "IBM Plex Mono"
   - source: "@quartz-themes/core"
     enabled: true
     options:
