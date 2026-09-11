@@ -1,3 +1,10 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Oculta completamente o bloco de propriedades no topo das notas */
+.popover-hint,
+.metadata-section,
+.node-properties,
+div[data-component="note-properties"] {
+  display: none !important;
+}
