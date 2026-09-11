@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 tipo: referencia
 autor:
   - "[[Nome do Pensador 1]]"

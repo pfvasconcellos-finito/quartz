@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 tipo: ferramenta
 conceitos_chave:
   - "[[Nome do Conceito 1]]"

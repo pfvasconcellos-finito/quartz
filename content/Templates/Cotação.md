@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 tipo: cotacao
 autor:
   - "[[Nome do Pensador 1]]"

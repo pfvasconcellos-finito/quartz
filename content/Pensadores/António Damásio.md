@@ -1,4 +1,5 @@
 ---
+title: António Damásio
 tipo: pensador
 escola:
   - Neurociências
@@ -17,5 +18,5 @@ António Rosa Damásio GOSE (Lisboa, 25 de fevereiro de 1944) é um médico neur
 ---
 *Biografia copiada da [Wikipédia]([https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Dam%C3%A1sio)) sob licença CC BY-SA 4.0.*
 
-
+[[Sentir e Saber]]
 

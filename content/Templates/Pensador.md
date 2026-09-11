@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 tipo: pensador
 escola:
   - "[[Nome da Escola 1]]"
