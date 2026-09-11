@@ -86,7 +86,7 @@ plugins:
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
-      markdownLinkResolution: relative
+      markdownLinkResolution: shortest
       openLinksInNewTab: false
       lazyLoad: true
     order: 60
