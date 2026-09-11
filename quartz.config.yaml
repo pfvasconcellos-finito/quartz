@@ -173,6 +173,7 @@ plugins:
       depth: 1
       enableLegend: false
       showTags: false
+      showFolderNames: false
     layout:
       position: right
       priority: 10
@@ -267,14 +268,14 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
     layout:
       position: beforeBody
       priority: 15
-      display: all
+      display: none
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
