@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: pt-BR
   baseUrl: pfvasconcellos-finito.github.io/quartz
   ignorePatterns:
     - private
@@ -17,8 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Archivo
+      body: Nunito Sans
       code: IBM Plex Mono
     colors:
       lightMode:
