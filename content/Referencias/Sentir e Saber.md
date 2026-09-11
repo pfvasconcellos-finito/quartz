@@ -9,7 +9,7 @@ tipo_obra: Livro
 
 ![[Pasted image 20260910151151.png|163]]
 
-## Dados Bibliográfios
+## Dados Bibliográficos
 - Autor: [[António Damásio]]
 - Ano de Publicação: 2022
 - Editora: Companhia das Letras
