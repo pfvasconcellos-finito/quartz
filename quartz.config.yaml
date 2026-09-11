@@ -115,7 +115,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts  # Opções: googleFonts | selfHosted | local
-      body: "Nunito Sans"
+      body: "Nunito"
       header: "Archivo"
       code: "IBM Plex Mono"
   - source: "@quartz-themes/core"
