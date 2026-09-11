@@ -1,5 +1,7 @@
 ---
 title: António Damásio
+aliases:
+  - António Damásio
 tipo: pensador
 escola:
   - Neurociências

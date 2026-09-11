@@ -1,5 +1,7 @@
 ---
 title: "{{title}}"
+aliases:
+  - "{{title}}"
 tipo: ferramenta
 conceitos_chave:
   - "[[Nome do Conceito 1]]"

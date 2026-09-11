@@ -1,5 +1,7 @@
 ---
 title: "{{title}}"
+aliases:
+  - "{{title}}"
 tipo: aula
 modulo:
   - "[[Módulo - Pensar]]"

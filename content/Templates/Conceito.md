@@ -1,5 +1,7 @@
 ---
 title: "{{title}}"
+aliases:
+  - "{{title}}"
 tipo: conceito
 autores_chave:
   - "[[Nome do Pensador 1]]"
