@@ -86,7 +86,9 @@ plugins:
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
-      markdownLinkResolution: shortest
+      markdownLinkResolution: relative
+      openLinksInNewTab: false
+      lazyLoad: true
     order: 60
   - source: "@quartz-community/description"
     enabled: true
@@ -164,6 +166,12 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      enablePageSearch: true
+      enableHover: true
+      depth: 1
+      enableLegend: false
+      showTags: false
     layout:
       position: right
       priority: 10
