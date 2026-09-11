@@ -11,6 +11,7 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - Templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -78,7 +79,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -258,7 +259,7 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: true
+    enabled: false
     options:
       includeAll: false
       includedProperties:
