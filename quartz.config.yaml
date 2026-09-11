@@ -260,22 +260,11 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: false
-    options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: true
-      delimiters: ---
-      language: yaml
+    enabled: true
     order: 5
     layout:
       position: beforeBody
       priority: 15
-      display: none
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
