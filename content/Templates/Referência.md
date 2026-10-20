@@ -11,7 +11,7 @@ tipo_obra: "Livro" # Livro, Artigo, Video, Podcast
 
 # {{title}}
 
-## Dados Bibliográfios
+## Dados Bibliográficos
 - Autor: 
 - Ano de Publicação:
 - Editora:

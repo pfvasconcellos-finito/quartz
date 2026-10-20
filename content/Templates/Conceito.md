@@ -10,7 +10,6 @@ escolas:
 referencia:
   - "[[Nome da Referencia 1]]"
 ---
-
 # {{title}}
 
 ## Definição (o que é)
