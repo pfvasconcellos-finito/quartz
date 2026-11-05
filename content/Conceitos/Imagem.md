@@ -4,7 +4,7 @@ aliases:
   - Imagem
 tipo: conceito
 autores_chave:
-  - Kenneth Boulding
+  - "[[Kenneth Boulding]]"
 escolas:
   - Teoria Geral dos Sistemas
 referencia:

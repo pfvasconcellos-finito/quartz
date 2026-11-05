@@ -1,5 +1,5 @@
 ---
-title: Kenneth Boulding
+title: kenneth-boulding
 aliases:
   - Kenneth Boulding
 tipo: pensador

@@ -7,6 +7,7 @@ obras_principais:
   - "[[Sentir e Saber]]"
   - O Erro de Descartes
   - A Estranha Ordem das Coisas
+aliases:
 ---
 # António Damásio
 

@@ -1,0 +1,10 @@
+/* Torna as linhas do Graph View visíveis por padrão */
+.graph {
+  & > svg {
+    & > line {
+      stroke-opacity: 0.6 !important;
+      stroke: var(--gray) !important;
+    }
+  }
+}
+
